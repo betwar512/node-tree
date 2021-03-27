@@ -3,13 +3,13 @@ test Tree data structure for templating
 
 Creting 2 type of BaseCompoenet , create with factory , choose a side of compoenet , and add to relative node .
 
-        Node
-          |
-        /   \
-Secton A     section B
-   |            |
-  / \          / \
-C1  C2           SubSection A 
-                      |
-                     / \
-                    C3  C4
+            Node
+              |
+            /   \
+    Section A     section B
+       |            |
+      / \          / \
+    C1  C2           SubSection A 
+                          |
+                         / \
+                        C3  C4
